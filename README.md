@@ -269,7 +269,7 @@ itnms.exe
 - Database integration
 
 ## Author
-
+Hooria Dar
 CS221 Semester Project
 Intelligent Transport Network Management System
 

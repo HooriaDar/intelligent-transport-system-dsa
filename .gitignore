@@ -1,0 +1,37 @@
+# =========================
+# C++ compiled files
+# =========================
+*.o
+*.obj
+*.exe
+*.out
+
+# =========================
+# Build directories
+# =========================
+build/
+bin/
+
+# =========================
+# Temporary/editor files
+# =========================
+*.log
+*.tmp
+*~
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# CMake files (if you use CMake)
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# =========================
+# OS specific
+# =========================
+.DS_Store
+Thumbs.db
